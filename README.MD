@@ -1,6 +1,6 @@
 # Getting Started
 
-A walkthrough to build production ready spring boot container images without Dockerfile.
+A guide on creating production-ready Java Spring Boot container images without the use of a Dockerfile.
 
 ## Prerequisites
 * [Docker](https://www.docker.com/) 
